@@ -1,0 +1,267 @@
+index: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="," name="Keywords"/>
+<meta content=",ģ" name="Description"/>
+<title>Ĺ_</title>
+<link href="http://news.sina.com.cn/deco/2010/0428/newslist/style.css?t=1006040037" rel="stylesheet"/>
+<style type="text/css">
+.tempLink{position: relative; z-index: 2; margin-top: -30px; line-height: 30px; margin-left: 20px; font-size: 14px;}
+.tempLink a:link,.tempLink a:visited{color:#090}
+.tempLink a:hover{color:#f00}
+
+.pL_Main_spe .d_tit_01{display:none;}
+.pL_Main_spe .d_tit_02{width:490px;}
+.pL_Main_spe #d_list{padding-left:50px;}
+.pL_Main_spe #d_list .c_tit{width:430px;}
+</style>
+<script src="http://news.sina.com.cn/deco/2011/1108/newslist_channel.js?t=120728" type="text/javascript"></script>
+</head>
+<body>
+<div id="vBody">
+<div class="wrap">
+<!-- ׼_ begin -->
+<style type="text/css">
+	.secondaryHeader{height:33px;overflow:hidden;background:url(http://i2.sinaimg.cn/dy/images/header/2008/standardl2nav_bg.gif) repeat-x #fff;color:#000;font-size:12px;font-weight:100;}
+	.secondaryHeader a,.secondaryHeader a:visited{color:#000;text-decoration:none;}
+	.secondaryHeader a:hover,.secondaryHeader a:active{color:#c00;text-decoration:underline;}
+	.sHBorder{border:1px #e3e3e3 solid;padding:0 10px 0 12px;overflow:hidden;zoom:1;}
+	.sHLogo{float:left;height:31px;line-height:31px;overflow:hidden;}
+	.sHLogo span,.sHLogo span a,.sHLogo span a:link,.sHLogo span a:visited,.sHLogo span a:hover{display:block;*float:left;display:table-cell;vertical-align:middle;*display:block;*font-size:27px;*font-family:Arial;height:31px;}
+	.sHLogo span,.sHLogo span a img,.sHLogo span a:link img,.sHLogo span a:visited img,.sHLogo span a:hover img{vertical-align:middle;}
+	.sHLinks{float:right;line-height:31px;}.secondaryHeader img{border:none;}
+	</style>
+<div class="secondaryHeader">
+<div class="sHBorder">
+<div class="sHLogo"><span><a href="http://news.sina.com.cn/"><img alt="" src="http://i1.sinaimg.cn/dy/images/header/2009/standardl2nav_sina_new.gif"/></a><a href="http://news.sina.com.cn/"><img alt="" src="http://i1.sinaimg.cn/dy/images/header/2009/standardl2nav_news.gif"/></a></span></div>
+<div class="sHLinks"><a href="http://news.sina.com.cn/">ҳ</a> | <a href="http://www.sina.com.cn/">ҳ</a> | <a href="http://news.sina.com.cn/guide/">˵</a></div>
+</div>
+</div>
+<!-- ׼_ end --> <div class="partMain clearfix">
+<h1 id="pL_Title">¹</h1>
+<div class="searchBox">
+<form name="searchForm">
+<input class="searchKey" name="key" type="text" value="ؼ֣ؼԿոָ"/>
+<select id="searchType" name="type" size="1" style="width:64px;">
+<option value="title"></option>
+<option value="content">ȫ</option>
+</select>
+<select id="dateLimitSelect" size="1">
+<option value="">ȫʱ</option>
+<option value="day">һ</option>
+<option value="week">һ</option>
+<option value="month">һ</option>
+</select>
+<input class="searchSubmit" type="submit" value=""/>
+</form>
+<form action="http://search.sina.com.cn/" name="searchIask" style="display:none" target="_blank"><input name="range" type="hidden"/><input name="q" type="hidden"><input name="c" type="hidden" value="news"/><input name="time" type="hidden" value=""/></input></form>
+</div>
+<script type="text/javascript">
+		var s_select_01 = new DivSelect("searchType","m_searchType","s_select_01",'',false);
+		var s_select_02 = new DivSelect("dateLimitSelect","m_dateLimit","s_select_01",'',false);
+		</script>
+<div class="pL_Bar">
+<div id="pL_Path">
+<a href="javascript:newsList.channel.setChannel('col','');">ҳ</a>
+<span id="pL_PathInfo"></span>
+</div>
+<div id="red_notice" style="float:left;padding:9px 0 0 0;color:red;width:520px;text-align:center;"></div>
+<div class="blk_reload">
+<div class="reload_countDown"><a class="on" href="javascript:void(0)" id="reloadSwitch"><span id="countDownNum">00</span>ˢ</a><div class="reloadButton"><input class="searchSubmit" id="reloadButton" type="button" value="ˢ"/></div></div>
+</div>
+</div>
+<div id="pL_Main">
+<div class="d_tit">
+<div class="d_tit_01">Ŀ</div>
+<div class="d_tit_02"></div>
+<div class="d_tit_03" id="timeZoneAlert">ʱ</div>
+</div>
+<div class="d_list_txt" id="d_list">
+<ul>
+<li>
+<span class="c_tit"><a href="http://news.sina.com.cn/o/2018-07-11/doc-ihfefkqq3351396.shtml" target="_blank">岿ų̨ƻ ٽݡλʩ</a></span>
+<span class="c_time">07-11 16:28</span>
+</li>
+<li>
+<span class="c_tit"><a href="http://news.sina.com.cn/o/2018-07-11/doc-ihfefkqq3351271.shtml" target="_blank">ϣ2⽻ ⽻ƽԵȻӦ</a></span>
+<span class="c_time">07-11 16:28</span>
+</li>
+<li>
+<span class="c_tit"><a href="http://news.sina.com.cn/o/2018-07-11/doc-ihfefkqq3341508.shtml" target="_blank">2000ԪйƷ˰ ⽻Ӧ</a></span>
+<span class="c_time">07-11 16:26</span>
+</li>
+<li>
+<span class="c_tit"><a href="http://news.sina.com.cn/o/2018-07-11/doc-ihfefkqq3341349.shtml" target="_blank">¼¾ٰɳչܻ</a></span>
+<span class="c_time">07-11 16:26</span>
+</li>
+<li>
+<span class="c_tit"><a href="http://news.sina.com.cn/o/2018-07-11/doc-ihfefkqq3340227.shtml" target="_blank">ձרҵŶDHEAT״Ԯ</a></span>
+<span class="c_time">07-11 16:26</span>
+</li>
+<li>
+<span class="c_tit"><a href="http://news.sina.com.cn/o/2018-07-11/doc-ihfefkqq3324560.shtml" target="_blank">⽻з˰</a></span>
+<span class="c_time">07-11 16:24</span>
+</li>
+<li>
+<span class="c_tit"><a href="http://news.sina.com.cn/c/2018-07-11/doc-ihfefkqq3313764.shtml" target="_blank">Ʒ 顱</a></span>
+<span class="c_time">07-11 16:23</span>
+</li>
+<li>
+<span class="c_tit"><a href="http://news.sina.com.cn/c/2018-07-11/doc-ihfefkqq3312546.shtml" target="_blank">Ḭ̄ȥҰӾ 𵥶</a></span>
+<span class="c_time">07-11 16:23</span>
+</li>
+<li>
+<span class="c_tit"><a href="http://news.sina.com.cn/o/2018-07-11/doc-ihfefkqq3309949.shtml" target="_blank">̩ѨԮϴĻ ý</a></span>
+<span class="c_time">07-11 16:23</span>
+</li>
+<li>
+<span class="c_tit"><a href="http://news.sina.com.cn/o/2018-07-11/doc-ihfefkqq3309912.shtml" target="_blank">УΡѻ 絾ѧĸע</a></span>
+<span class="c_time">07-11 16:23</span>
+</li>
+<li>
+<span class="c_tit"><a href="http://news.sina.com.cn/o/2018-07-11/doc-ihfefkqq3309864.shtml" target="_blank">飺ֲ͹ҵ</a></span>
+<span class="c_time">07-11 16:23</span>
+</li>
+<li>
+<span class="c_tit"><a href="http://news.sina.com.cn/o/2018-07-11/doc-ihfefkqq3309952.shtml" target="_blank">2018ꡰ̨귨˲ʵءĿڻ</a></span>
+<span class="c_time">07-11 16:23</span>
+</li>
+<li>
+<span class="c_tit"><a href="http://news.sina.com.cn/o/2018-07-11/doc-ihfefkqq3309524.shtml" target="_blank">УѧӪѧӪӪʽԺʿ</a></span>
+<span class="c_time">07-11 16:23</span>
+</li>
+<li>
+<span class="c_tit"><a href="http://news.sina.com.cn/o/2018-07-11/doc-ihfefkqq3308687.shtml" target="_blank">[]71 ȫʡʡмʿ˰ʵʵƹͼ</a></span>
+<span class="c_time">07-11 16:22</span>
+</li>
+<li>
+<span class="c_tit"><a href="http://news.sina.com.cn/s/2018-07-11/doc-ihfefkqq3308391.shtml" target="_blank">н̿ԺȫһѧԿѧ̳ൺ</a></span>
+<span class="c_time">07-11 16:22</span>
+</li>
+<li>
+<span class="c_tit"><a href="http://news.sina.com.cn/c/zj/2018-07-11/doc-ihfefkqq3308402.shtml" target="_blank">ȴ֡ɵ11ҹ԰Ե</a></span>
+<span class="c_time">07-11 16:22</span>
+</li>
+<li>
+<span class="c_tit"><a href="http://news.sina.com.cn/o/2018-07-11/doc-ihfefkqq3308349.shtml" target="_blank">˳Ҳдǻۣǻ۲˳仧Ͼ</a></span>
+<span class="c_time">07-11 16:22</span>
+</li>
+<li>
+<span class="c_tit"><a href="http://news.sina.com.cn/o/2018-07-11/doc-ihfefkqq3305898.shtml" target="_blank">Ļ޷ڽ ˺</a></span>
+<span class="c_time">07-11 16:22</span>
+</li>
+<li>
+<span class="c_tit"><a href="http://news.sina.com.cn/c/2018-07-11/doc-ihfefkqq3305646.shtml" target="_blank">дƽ蹤</a></span>
+<span class="c_time">07-11 16:22</span>
+</li>
+<li>
+<span class="c_tit"><a href="http://news.sina.com.cn/o/2018-07-11/doc-ihfefkqq3303618.shtml" target="_blank">Ͷ200Ԫ ȫ⣺Ӹ߼֧</a></span>
+<span class="c_time">07-11 16:22</span>
+</li>
+</ul>
+<div class="pagebox">
+<b><span class="pagebox_cur_page">1</span></b><a href="/s/channel.php?ch=01&amp;page=2&amp;dpc=1" title="page 2">2</a><a href="/s/channel.php?ch=01&amp;page=3&amp;dpc=1" title="page 3">3</a><a href="/s/channel.php?ch=01&amp;page=4&amp;dpc=1" title="page 4">4</a><a href="/s/channel.php?ch=01&amp;page=5&amp;dpc=1" title="page 5">5</a><a href="/s/channel.php?ch=01&amp;page=6&amp;dpc=1" title="page 6">6</a><a href="/s/channel.php?ch=01&amp;page=7&amp;dpc=1" title="page 7">7</a><a href="/s/channel.php?ch=01&amp;page=8&amp;dpc=1" title="page 8">8</a><a href="/s/channel.php?ch=01&amp;page=9&amp;dpc=1" title="page 9">9</a><a href="/s/channel.php?ch=01&amp;page=10&amp;dpc=1" title="page 10">10</a><a href="/s/channel.php?ch=01&amp;page=11&amp;dpc=1" title="page 11">11</a><a href="/s/channel.php?ch=01&amp;page=2&amp;dpc=1" title="һҳ">һҳ<!-- --></a><a href="/s/channel.php?ch=01&amp;page=306&amp;dpc=1" title="last page">ĩҳ<!-- --></a>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+var s_select_01 = new DivSelect("searchType","m_searchType","s_select_01",'',true);
+var s_select_02 = new DivSelect("dateLimitSelect","m_dateLimit","s_select_01",'',true);
+</script>
+</div>
+</div>
+<!-- Ķҳ footer begin -->
+<div class="footer">
+<p><a href="http://news.sina.com.cn/guest.html" target="_blank">԰</a>ͷߣ4006900000ӭָ˹˾ <a href="http://www.sina.com.cn/intro/copyright.shtml">Ȩ</a>Copyright © 1996-2018 SINA Corporation, All Rights Reserved</p>
+</div>
+<!-- Ķҳ footer end -->
+</div>
+<!-- ײ begin -->
+<div id="bottomBar">
+<div class="bB_cont">
+<div id="tool_1">
+<div id="tool1_tit">Ŀ</div>
+<div id="channelList">
+<a class="checked" href="javascript:void(0)" s_id="89" s_type="all">ȫ</a>
+<a href="javascript:void(0)" s_id="90" s_type="col"></a> <a href="javascript:void(0)" s_id="91" s_type="col"></a> <a href="javascript:void(0)" s_id="92" s_type="col"></a> <a href="javascript:void(0)" s_id="94" s_type="col"></a> <a href="javascript:void(0)" s_id="95" s_type="col"></a> <a href="javascript:void(0)" s_id="93" s_type="col"></a> <a href="javascript:void(0)" s_id="96" s_type="col">Ƽ</a> <a href="javascript:void(0)" s_id="97" s_type="col">ƾ</a> <a href="javascript:void(0)" s_id="98" s_type="col"></a> <a href="javascript:void(0)" s_id="99" s_type="col"></a> <a href="javascript:void(0)" s_id="177" s_type="col" style="display:none"></a> <a href="javascript:void(0)" s_id="178" s_type="col" style="display:none">ý</a> <a href="javascript:void(0)" s_id="179" s_type="col" style="display:none"></a> <a href="javascript:void(0)" s_id="206" s_type="col" style="display:none"></a> <a href="javascript:void(0)" s_id="207" s_type="col" style="display:none">-</a> <a href="javascript:void(0)" s_id="208" s_type="col" style="display:none">-</a> <a href="javascript:void(0)" s_id="209" s_type="col" style="display:none">-ع</a> <a href="javascript:void(0)" s_id="210" s_type="col" style="display:none"></a> <a href="javascript:void(0)" s_id="296" s_type="col" style="display:none">ڹ</a> </div>
+</div>
+<div id="tool_2">
+<div id="tool2_tit"></div>
+<div class="tool2_cont_frame">
+<div class="tool2_cont">
+<div class="t2_box">
+<div class="t2_box_tit">ˢ¼</div>
+<div class="aButton" id="reloadTimeout"><span class="selected">30</span><a href="javascript:void(0)">60</a><a href="javascript:void(0)">90</a></div>
+</div>
+<div class="t2_line"></div>
+<div class="t2_box">
+<div class="t2_box_tit"></div>
+<div class="aButton" id="pL_Limit"><span class="selected">40</span><a href="javascript:void(0)">60</a><a href="javascript:void(0)">80</a></div>
+</div>
+<div class="t2_line"></div>
+<div class="t2_box" style="padding-right:5px;">
+<div class="t2_box_tit">ͣ</div>
+<div class="aButton" id="newsType"><span class="selected"></span><a href="javascript:void(0)">ͼƬ</a><a href="javascript:void(0)">Ƶ</a></div>
+<div id="dateListButton">ջع</div>
+<a href="javascript:void(0)" id="autoHideToolBar" title="Զع">Զ</a>
+</div>
+</div>
+</div>
+</div>
+<div id="tool_layers">
+<div class="dateList" id="reviewBlk">
+<div class="dl_title">
+<a href="javascript:void(0)" id="preMonth">&lt;&lt;</a>
+<a href="javascript:void(0)" id="nextMonth">&gt;&gt;</a>
+<span class="dlt_cont"><select id="yearSelect" size="1"></select><select id="monthSelect" size="1"></select></span>
+</div>
+<dl class="dl_day">
+<dd class="sun"></dd>
+<dd>һ</dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd></dd>
+<dd class="sun"></dd>
+</dl>
+<div id="dateTable"></div>
+</div>
+</div>
+</div>
+</div>
+<!-- ײ end -->
+<script type="text/javascript">
+newsList.review.startDate = '1999-05-26'; //ʼʱ
+newsList.review.newDate = '2010-03-30'; //°濪ʼʱ
+newsList.review.oldUrlCode = 'http://news.sina.com.cn/old1000/news1000_$year$month$day.shtml'; //عurl
+newsList.init();
+PVurl = "http://2010.sina.com.cn/hdroll/gdxw_news_manual.html";
+</script>
+<!-- SUDA_CODE_START -->
+<script src="http://www.sinaimg.cn/unipro/pub/suda_s_v851c.js" type="text/javascript"></script>
+<script type="text/javascript">
+_S_pSt(_S_PID_);
+</script>
+<noscript>
+<div style="position:absolute;top:0;left:0;width:0;height:0;visibility:hidden"><img alt="" border="0" height="0" src="http://beacon.sina.com.cn/a.gif?noScript" width="0"/></div>
+</noscript>
+<!-- SUDA_CODE_END -->
+<!-- DMP_CODE_START DAGGER -->
+<script type="text/javascript">
+(function(d, s, id) {
+    var n = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    s = d.createElement(s);
+    s.id = id;
+    s.setAttribute('charset', 'utf-8');
+    s.src = '//d' + Math.floor(0 + Math.random() * (8 - 0 + 1)) + '.sina.com.cn/litong/zhitou/sinaads/src/spec/sinaads_ck.js';
+    n.parentNode.insertBefore(s, n);
+})(document, 'script', 'sinaads-ck-script');
+</script>
+<!-- DMP_CODE_END DAGGER -->
+<script src="http://www.sinaimg.cn/unipro/pub/suda_m_v629.js" type="text/javascript"></script>
+<script type="text/javascript">suds_init(2285,100.0000,1015,2);</script>
+</body>
+</html>
